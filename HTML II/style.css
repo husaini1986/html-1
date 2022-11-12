@@ -1,30 +1,9 @@
 body {
-    font-size: 20px;
-    text-align: justify;
+    background: black;
+    background-attachment: fixed;
+    
 }
-h1 {
-    font-size: 50px;
-    text-align: center;
-}
-h2 {
-    font-size: 25px;
-}
-table {
-    margin: auto;
-    background-color: antiquewhite;
-}
-.colorred {
-    color: red;
-}
-#colorblue {
-    color: blue
-}
+
 a {
-    color: green;
-}
-.link1 {
-    color: brown;
-}
-.link2 {
-    color: blueviolet;
+    color: white;
 }
